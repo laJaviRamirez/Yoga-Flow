@@ -32,7 +32,7 @@ h1 {
     position: relative;
     background-size: cover;
     background-position: 50% 50%;
-    background-image: url(https://yogamontse.com/wp-content/uploads/2023/02/background.jpg);
+    background-image: url("./assets/images/slider\ 1.jpg");
 }
 
   .overlay {
@@ -54,6 +54,7 @@ h1 {
     font-size: 45px;
     letter-spacing: 0px;
     margin: 0 0 5px;
+    position: absolute;
   }
   
   .overlay p {
